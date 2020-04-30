@@ -1,0 +1,29 @@
+body{
+    background-color: cadetblue;
+}
+
+#box{
+    width: 400px ;
+    height: 470px;
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 80px;
+    background-color: coral;
+}
+button{
+    width: 80px;
+    height: 80px;
+    margin-top: 16px;
+    font-size: 27px;
+    margin-left: 13px;
+}
+
+#result{
+    width: 370px;
+    height: 55px;
+    margin-left:  10px;
+    margin-top: 8px;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-size: 30px;
+}
